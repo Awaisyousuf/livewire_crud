@@ -1,0 +1,2 @@
+@stack('styles')
+@stack('scripts')
